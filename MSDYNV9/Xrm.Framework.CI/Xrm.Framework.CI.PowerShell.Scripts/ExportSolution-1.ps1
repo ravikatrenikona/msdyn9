@@ -76,8 +76,8 @@ if ($UpdateVersion)
 
 #Solution Export
 $CrmConnectionString="AuthType=AD;ServiceUri=http://vld365v9srv/veriloanbase/XRMServices/2011/Organization.svc?wsdl; DOMAIN=CRM39; Username=crmadmin;Password=Tt12345"
-$SolutionName="VeriLoanBase"
-$ExportSolutionOutputPath="C:\Users\Ravi.k\agent\agent_veritouch\_work\6\a"
+#$SolutionName="VeriLoanBase"
+#$ExportSolutionOutputPath="C:\Users\Ravi.k\agent\agent_veritouch\_work\6\a"
 
 $exportManagedFile
 $exportUnmanagedFile
